@@ -10,18 +10,23 @@ background: linear-gradient(48deg, rgba(113,27,141,1) 31%, rgba(69,165,252,1) 76
     display: flex;
     width: 100%;
 }
-.box{
-    width: 70%;
-    font-family:sans-serif;
+.box {
+    width: 60%;
+    font-family: sans-serif;
     background-color: white;
     /* box-shadow: 0.3rem 0.3rem black; */
     padding: 3rem;
     margin: 5rem;
     align-items: center;
     justify-content: center;
-    border-radius: 0.4rem ;
-
+    border-radius: 0.4rem;
 }
+
+
+
+
+
+
 .form-box {
     
     /* width: 90%;
